@@ -1,12 +1,19 @@
-.navbar-lewagon {
-  justify-content: space-between;
-  background: white;
-}
 
-.navbar-lewagon .navbar-collapse {
-  flex-grow: 0;
+.navbar{
+  border-bottom: 1px solid rgba(0,0,0,.0975);
 }
-
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
+.user-section{
+  a{
+    padding-left: 15px;
+  }
+  i.fa{
+    font-size: 22px;
+    color: #000000d4;
+  }
+}
+.search-form{
+  input{
+    font-size: 13px;
+    text-align: center;
+  }
 }
